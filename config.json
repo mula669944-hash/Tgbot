@@ -1,0 +1,13 @@
+{
+  "bot_token": "8868077003:AAHNmazPEVJpg9L_VnXffDW5ptBk3I-G_uI",
+  "admin_ids": [7267577982],
+  "storage_root": "/storage/emulated/0/TelegramBotHost",
+  "max_bots_per_user": 3,
+  "max_upload_size_mb": 25,
+  "max_zip_extracted_mb": 60,
+  "max_files_in_zip": 150,
+  "max_log_bytes": 1048576,
+  "max_restarts": 5,
+  "restart_window_seconds": 60,
+  "maintenance_mode": false
+}
